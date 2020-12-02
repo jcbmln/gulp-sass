@@ -1,7 +1,7 @@
 {
-  "name": "gulp-sass",
-  "version": "4.1.0",
-  "description": "Gulp plugin for sass",
+  "name": "gulp-sassy",
+  "version": "4.1.1",
+  "description": "Fork of Gulp plugin for sass",
   "main": "index.js",
   "engines": {
     "node": ">=6"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dlmanning/gulp-sass"
+    "url": "git://github.com/jcbmln/gulp-sass"
   },
   "keywords": [
     "gulpplugin",
